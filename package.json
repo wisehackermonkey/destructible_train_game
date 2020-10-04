@@ -1,0 +1,32 @@
+{
+    "name": "destructible_train_game",
+    "version": "1.0.0",
+    "description": "``` by oran collins github.com/wisehackermonkey oranbusiness@gmail.com 20201004 ```",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wisehackermonkey/destructible_train_game.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wisehackermonkey/destructible_train_game/issues"
+    },
+    "homepage": "https://github.com/wisehackermonkey/destructible_train_game#readme",
+    "devDependencies": {
+        "@babel/core": "^7.2.2",
+        "@babel/preset-env": "^7.3.1",
+        "babel-loader": "^8.0.5",
+        "webpack": "^4.29.0",
+        "webpack-cli": "^3.2.1",
+        "webpack-dev-server": "^3.1.14"
+    },
+    "dependencies": {
+        "lodash": "^4.17.20",
+        "p5": "^1.1.9"
+    }
+}
